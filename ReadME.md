@@ -1,5 +1,3 @@
 # hello-world
 
-```
-Hello world :smile:
-```
+> Hello world :smile:
